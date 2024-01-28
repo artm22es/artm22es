@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Artem 👋
 
-<!--
-**artm22es/artm22es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with a passion for crafting delightful and responsive user experiences. 
+Eager to contribute to innovative projects, learn from seasoned developers, and bring creative ideas to life.
+Let's build something amazing together! 🚀
 
-Here are some ideas to get you started:
+## 🛠️ My stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,tailwind,html,css,git,vscode)](https://skillicons.dev)
+
+## 🌱 Learning Journey
+
+Currently on a journey to deepen my knowledge in frontend development by exploring advanced React.js concepts, 
+improving performance optimization, and diving into modern CSS techniques. Excited about the endless possibilities
+the frontend world has to offer!
+
+## 🎯 Goals
+
+Looking forward to connecting with fellow developers, collaborating on exciting projects, and continuously growing 
+in the ever-evolving world of frontend development. Let's create beautiful and functional user interfaces! 🎨💻
