@@ -6,7 +6,7 @@ Let's build something amazing together! 🚀
 
 ## 🛠️ My stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,tailwind,html,css,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,html,css,git,vscode)](https://skillicons.dev)
 
 ## 🌱 Learning Journey
 
